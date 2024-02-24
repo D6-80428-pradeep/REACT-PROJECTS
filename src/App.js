@@ -8,10 +8,10 @@ function App() {
     <div className="App">
 
       {/* Accordian  */}
-      {
+      {/* {
         <Accordian />
 
-      }
+      } */}
        
       {/* Random colour generation */}
       {
